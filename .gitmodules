@@ -1,3 +1,4 @@
 [submodule "monome-euro/multipass"]
 	path = monome-euro/multipass
 	url = https://github.com/scanner-darkly/multipass.git
+	branch = main
